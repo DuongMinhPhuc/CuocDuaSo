@@ -52,10 +52,6 @@ def callback_rgb(data):
 		inputSegmentImage = cv2.imread(pathRealImage)
 		segmentImage = segment_image(inputSegmentImage, net, COLORS)
 
-		#get trung vi line detect
-
-
-
 		#cv2.imwrite('data/' + 'segmentImage/' + str(count_image) + '.jpg', np.array(segmentImage))
 		cv2.imshow("segmentImage", segmentImage)
 		cv2.waitKey(3)
