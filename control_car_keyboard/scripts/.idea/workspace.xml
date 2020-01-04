@@ -1,27 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32a49745-11e2-48fa-bd59-cbae9642c157" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="32a49745-11e2-48fa-bd59-cbae9642c157" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../get_image/.idea/get_image.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../get_image/scripts/.idea/scripts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../get_image/scripts/backup/get_image_real_and_segment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lane_detect_mycode/.idea/lane_detect_mycode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../semantic_segmentation/.idea/semantic_segmentation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../semantic_segmentation/opencv-semantic-segmentation/.idea/opencv-semantic-segmentation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../semantic_segmentation/opencv-semantic-segmentation/list_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../launch/video_stream.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../get_image/launch/video_stream.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../get_image/scripts/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../get_image/scripts/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lane_detect_c/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lane_detect_c/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lane_detect_c/include/carcontrol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lane_detect_c/include/detectlane.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lane_detect_c/launch/lane_detect.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lane_detect_c/package.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lane_detect_c/src/carcontrol.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lane_detect_c/src/detectlane.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lane_detect_c/src/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../video_stream_python/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../video_stream_python/launch/video_stream.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../video_stream_python/package.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../video_stream_python/scripts/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../video_stream_python/scripts/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../video_stream_python/scripts/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../video_stream_python/scripts/.idea/scripts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../video_stream_python/scripts/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../video_stream_python/scripts/main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1TTQk64JD4dIMYRekLDdbQZXZD2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -37,5 +86,15 @@
       <updated>1573481745283</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1578108947450">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="723" y="257" width="530" height="598" key="FileChooserDialogImpl/67.34.1853.1046@67.34.1853.1046" timestamp="1578108947450" />
+    <state x="573" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578108401980">
+      <screen x="67" y="34" width="1853" height="1046" />
+    </state>
+    <state x="573" y="345" key="com.intellij.ide.util.TipDialog/67.34.1853.1046@67.34.1853.1046" timestamp="1578108401980" />
   </component>
 </project>
